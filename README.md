@@ -6,7 +6,7 @@
 📂 Click the button below to **download the latest SDGS APK file** directly.  
 
 <p align="center">
-    <a href="https://github.com/CYBERCOP-404/sdgs-apk/releases/latest/download/SDGS.apk">
+    <a href="https://github.com/CYBERCOP-404/sdgs-apk/releases/download/untagged-51a78ab63d93a761448b/SDGS.apk">
         <img src="https://img.shields.io/badge/Download-SDGS%20APK-green?style=for-the-badge&logo=android" alt="Download APK"
     </a>
 </p>
